@@ -1,5 +1,7 @@
 # L4
 
+![L4](https://blog.object1037.dev/images/L4_complete-08d9006-3840:1478.webp)
+
 The L4 is a 50% wireless split keyboard with an ortholinear layout.
 
 - Keys: 52
